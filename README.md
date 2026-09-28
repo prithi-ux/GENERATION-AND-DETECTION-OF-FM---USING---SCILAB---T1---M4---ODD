@@ -80,6 +80,9 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 
 ---
 
-## MODEL GRAPH
+## RESULT
+<img width="355" height="215" alt="image" src="https://github.com/user-attachments/assets/7ee5258e-0654-47e2-a52c-703a1f5615ce" />
+<img width="343" height="92" alt="image" src="https://github.com/user-attachments/assets/a760ff90-ad64-4235-b2b2-e283f94ea1b2" />
+
 
 
